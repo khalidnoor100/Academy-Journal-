@@ -1,5 +1,6 @@
 # Academy-Journal-
 goals 
+8 milestones for training 
 To develop and improve my skills from my time at univeristy and work experience whilst also acquiring new knowledge. 
 to learn essential information from those senior and more experienced then me. 
 to apply the knowledge I've learnt to live projects and tasks. 
