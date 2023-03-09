@@ -21,3 +21,8 @@ i was able to create the right atomsphere for my virtual machines to work effcie
 I was able to makes changes from my journal and push them on to git to be reviewed. 
 I was able to create a ssh key and also a passphrases
 
+reflection 
+task 3 
+I was able to create a linux centos8 virtual machine built from an ISO image. 
+I then connected to the virtual machine remotely uisng SSH.
+I ensured the virtual machine had 1gb of memory, 1cpus,20gb disk and was thin provisioned. 
