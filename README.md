@@ -25,4 +25,8 @@ reflection
 task 3 
 I was able to create a linux centos8 virtual machine built from an ISO image. 
 I then connected to the virtual machine remotely uisng SSH.
-I ensured the virtual machine had 1gb of memory, 1cpus,20gb disk and was thin provisioned. git
+I ensured the virtual machine had 1gb of memory, 1cpus,20gb disk and was thin provisioned
+
+Reflection 
+task 4
+set and environment variable named first name containing my last name using the particular command line for the specifc VM. I did this for both my linux and windows systems. 
