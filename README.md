@@ -29,4 +29,6 @@ I ensured the virtual machine had 1gb of memory, 1cpus,20gb disk and was thin pr
 
 Reflection 
 task 4
-set and environment variable named first name containing my last name using the particular command line for the specifc VM. I did this for both my linux and windows systems. 
+set and environment variable named first name containing my last name using the particular command line for the specifc VM. I did this for both my linux and windows systems
+I created a presentation on the different key folder locations in both linux and windows and presented them to mu colleagues. 
+I then created a presentation on the uses of environment variables in different situations.
