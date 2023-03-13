@@ -31,4 +31,12 @@ Reflection
 task 4
 set and environment variable named first name containing my last name using the particular command line for the specifc VM. I did this for both my linux and windows systems
 I created a presentation on the different key folder locations in both linux and windows and presented them to mu colleagues. 
-I then created a presentation on the uses of environment variables in different situations.
+I then created a presentation on the uses of environment variables in different situations
+
+Task 5.1/.2
+I configured a static IP address and then retrieved my DNS and updated it to a google DNS. 
+
+Task 5.3
+I was able to use command line utilities to retrieve infromation about the network. 
+I was able to confirm my IP address using two methofd.
+I confirmed my hostname using two diffeernt methods and also confirmed that my colleagues vm's are working. 
