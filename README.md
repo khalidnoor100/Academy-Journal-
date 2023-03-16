@@ -40,3 +40,25 @@ Task 5.3
 I was able to use command line utilities to retrieve infromation about the network. 
 I was able to confirm my IP address using two methofd.
 I confirmed my hostname using two diffeernt methods and also confirmed that my colleagues vm's are working. 
+Task 6
+I created a presentation explaining how a computer retrieves email; from the point of connecting to the router/network to marking the message as read. 
+I then created another presentation regarding raw communication for example Telnet and how it is used to communicate with network services. 
+
+Task 7
+
+I wrote a Bash script that takes a CSV file as input and outputs the average of the second column.
+
+ (data.csv):
+
+Name,Grade
+Alice,90
+Bob,80
+Charlie,95
+I was able to retrieve the average of the grades within 2 decimal points. 
+I then wrote a Bash script that finds all files in a given directory and its subdirectories that have a specific extension and renames them with a prefix of P. 
+I wrote a Bash script that monitors a log file and sends an alert to my email when a certain pattern is found.
+I wrote a Bash script that reads a file containing a list of numbers and performs various operations such as the sum,average,min and max number based on user input. 
+
+
+
+
